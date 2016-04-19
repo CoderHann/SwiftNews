@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>头条</key>
+	<string>http://c.3g.163.com/nc/article/headline</string>
+	<key>娱乐</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>体育</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>军事</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>财经</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>科技</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>时尚</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>历史</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>游戏</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>健康</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>政务</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>情感</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>NBA</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>社会</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>CBA</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>影视</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>国际足球</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>数码</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>教育</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>艺术</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>博客</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>论坛</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+	<key>手机</key>
+	<string>http://c.3g.163.com/nc/article/list</string>
+</dict>
+</plist>
